@@ -1,7 +1,1 @@
-Pre-Requiremnets
-```
-    conda install torchtext
-    conda install spacy
-    python -m spacy download en 
-    python -m spacy download de
-```
+NLP 관련 정리
